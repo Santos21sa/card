@@ -1,14 +1,14 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Lim;Preston;;;
-FN: Preston  Lim 
-ORG:GovTech;
-TITLE:Associate Software Engineer\nProducts Team, Data Science Division
-EMAIL;type=INTERNET;type=WORK;type=pref:preston@data.gov.sg
-TEL;type=WORK;type=VOICE:+65 9123 4567
-item1.ADR;type=WORK;type=pref:;;1 Fusionopolis View\nSandcrawler\, 09-01;;;138577;Singapore
+N:Bruno;Pereira;;;
+FN: Bruno Pereira 
+ORG:EnergyCon;
+TITLE:IT Manager
+EMAIL;type=INTERNET;type=WORK;type=pref:bruno.pereira@energycon.solar
+TEL;type=WORK;type=VOICE:253 055 016
+item1.ADR;type=WORK;type=pref:;;1 Fusionopolis View\nSandcrawler\,
 item1.X-ABADR:sg
-item2.URL;type=pref:tech.gov.sg
+item2.URL;type=pref:energycon.solar
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
