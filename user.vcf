@@ -7,7 +7,6 @@ ORG:EnergyCon;
 TITLE:IT Manager
 EMAIL;type=INTERNET;type=WORK;type=pref:bruno.pereira@energycon.solar
 TEL;type=WORK;type=VOICE:253 055 016
-item1.ADR;type=WORK;type=pref:;;1 Fusionopolis View\nSandcrawler\,
 item1.X-ABADR:sg
 item2.URL;type=pref:energycon.solar
 item2.X-ABLabel:_$!<HomePage>!$_
